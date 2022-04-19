@@ -1,1 +1,1 @@
-echo Nauryzbay Manap 
+echo Nauryzbay Manap
