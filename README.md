@@ -1,6 +1,6 @@
-
-# stepik-id-printer (h1) 
+# stepik-id-printer (h1)
 Это проект для вывода моего персонального идентификатора на *образовательной платформе*  `stepik.org`
+
 ## Возможности (h2)
 Данный проект имеет следующий функционал.
 - Выводит в *stdout* уникальный идентификатор.
@@ -18,7 +18,6 @@ class Main {
 		System.out.println("777");
 	}
 }
-
 ```
 На С++
 ```c++
@@ -28,9 +27,7 @@ int main() {
 	cout << 777 << endl;
 	return 0;
 }
-
 ```
-
 > :bulb: Попробуйте реализовать на Python, Go и JavaScript
 ## Контакты разработчика (h2)
 Ниже найдете список ссылок для связки с автором.
@@ -40,3 +37,6 @@ int main() {
 | Linkedln  |[ссылка](https://www.google.com)| 3 часа   |
 | WhatsApp  |[ссылка](https://www.google.com)| 30 минут |
 | Telegram  |[ссылка](https://www.google.com)| 5 минут  |
+
+
+ скрипт username.sh выводит мое имя
